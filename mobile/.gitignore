@@ -1,0 +1,20 @@
+<<<<<<< HEAD
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+web-report/
+
+# macOS
+.DS_Store
+/.vscode
+=======
+be_the_hero.code-workspace
+>>>>>>> 4b51ce000a4b95b488ec878d408a6f76cf60926d
+/backend/node_modules
